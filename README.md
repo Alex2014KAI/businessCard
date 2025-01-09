@@ -1,4 +1,4 @@
 # Петров Алексей Андреевич
-![фото профиля](https://doka.guide/tools/markdown/demos/img/images/dog.svg)
+![фото профиля](/I.svg)
 ## О себе
 люблю
